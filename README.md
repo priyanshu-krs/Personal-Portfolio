@@ -6,10 +6,10 @@ Roll Number: 2401010174
 Course: B.Tech CSE CORE
 Course Name: Web Programming with Python and Javascript Lab
 Course Code: SEC035
+
 📌 Project Overview
 This is a responsive personal portfolio website built using HTML, CSS, and JavaScript.
 The website showcases my profile, skills, projects, and contact information in a clean and professional layout.
-
 The project demonstrates semantic HTML structure, modern CSS styling, and basic JavaScript interactivity
 
 🚀 Features
