@@ -34,11 +34,9 @@
 ---
 
 ## ⚙️ How to Run the Project
-1.Download or clone the repository: git clone 
+1.Download or clone the repository: git clone https://github.com/priyanshu-krs/-Personal-Portfolio/edit/main/README.md
 2.Open the project folder: cd personal_portfolio
-3.Open the index.html file in any web browser:https://github.com/priyanshu-krs/-Personal-Portfolio/edit/main/README.md
+3.Open the index.html file in any web browser
 - Double-click index.html
 
-1. Download or clone the repository:
-```bash
-git clone https://github.com/KumarSubodh12/COMPANY-LANDING-PAGE.git
+
