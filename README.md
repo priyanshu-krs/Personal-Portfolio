@@ -32,11 +32,12 @@
 - JavaScript (DOM Manipulation, Event Handling)  
 
 ---
-
 ## ⚙️ How to Run the Project
-1.Download or clone the repository: git clone https://github.com/priyanshu-krs/-Personal-Portfolio/edit/main/README.md
-2.Open the project folder: cd personal_portfolio
-3.Open the index.html file in any web browser
-- Double-click index.html
+
+### 1. Download or clone the repository
+
+```bash
+(https://github.com/priyanshu-krs/-Personal-Portfolio/tree/main)
+
 
 
