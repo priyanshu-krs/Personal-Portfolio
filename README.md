@@ -35,6 +35,21 @@
 ## ⚙️ How to Run the Project
 
 ### 1. Download or clone the repository
+```bash
+git clone https://github.com/priyanshu-krs/Personal-Portfolio.git
+```
+### 2. Open the project folder
+```bash
+cd Personal-Portfolio
+```
+### 3. Open the project in your browser
+
+* Locate the `index.html` file
+* Double-click on `index.html`
+
+👉 Your portfolio website will open in your default web browser.
+
+
 
 ```bash
 
