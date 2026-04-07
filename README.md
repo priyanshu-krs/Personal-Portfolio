@@ -35,9 +35,7 @@
 ## ⚙️ How to Run the Project
 
 ### 1. Download or clone the repository
-```bash
 https://priyanshu-krs.github.io/Personal-Portfolio/
-```
 ### 2. Open the project folder
 ```bash
 cd Personal-Portfolio
