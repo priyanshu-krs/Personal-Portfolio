@@ -36,7 +36,7 @@
 
 ### 1. Download or clone the repository
 ```bash
-git clone https://github.com/priyanshu-krs/Personal-Portfolio.git
+https://priyanshu-krs.github.io/Personal-Portfolio/
 ```
 ### 2. Open the project folder
 ```bash
